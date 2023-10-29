@@ -59,4 +59,4 @@ Class attendees are encouraged to fork this repo and practice making Pull Reques
 
 - Get used to Git!
 
-- [your suggestions here]
+- Git'r done!
