@@ -57,6 +57,8 @@ Class attendees are encouraged to fork this repo and practice making Pull Reques
 
 - Git with it!
 
+- One more time...
+
 - Gitr Done!
 
 - Get used to Git!
