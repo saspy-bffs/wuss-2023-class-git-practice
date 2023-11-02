@@ -55,7 +55,7 @@ Class attendees are encouraged to fork this repo and practice making Pull Reques
 
 #### Possible Alternative Workshop Titles (feel free to contribute your favorite [git pun](https://duckduckgo.com/?q=git+puns)!)
 
-- Git with it!
+- Git with it!  -- Gitty up!
 
 - Get used to Git!
 
